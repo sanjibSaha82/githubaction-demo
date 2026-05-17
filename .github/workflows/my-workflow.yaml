@@ -13,5 +13,7 @@ jobs:
         steps:
             - name: final step
               run: echo "hello from final step"
+            - name: Another Step
+              run: echo "Workflow executed again"
             
 
