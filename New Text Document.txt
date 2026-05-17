@@ -1,0 +1,6 @@
+ssh-keygen -t ed25519 -C "sanjib.alcatel@gmail.com" -f  ~/.ssh/sanjib_git_ed25519
+
+eval "$(ssh-agent -s)"
+ssh-add  ~/.ssh/sanjib_git_ed25519
+
+C:\Users\HP\.ssh
