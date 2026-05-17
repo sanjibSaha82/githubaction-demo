@@ -4,3 +4,7 @@ eval "$(ssh-agent -s)"
 ssh-add  ~/.ssh/sanjib_git_ed25519
 
 C:\Users\HP\.ssh
+
+ssh -T sanjibSaha82@github.com
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPYzNp5zwr9RH69IlSV7djc1Zym5e8JHRCRMyv2fjqUF sanjib.alcatel@gmail.com
